@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React , TypeScript, Jest, Java, ESB , Kafka **
 
-- 📫 How to reach me **as669004@gmail.com**
+- 📫 How to reach me **akasharma2019@gmail.com**
 
 -  ⚡ Fun fact **I am funny😅**
 
